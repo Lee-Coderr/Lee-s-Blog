@@ -14,10 +14,10 @@ description: 测试博客
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: http://bpic.588ku.com/element_origin_min_pic/17/11/29/38b5b3f5c2e3f105cc9fa8668bfca434.jpg%21/fwfh/804x804/quality/90/unsharp/true/compress/true #https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: http://bpic.588ku.com/element_origin_min_pic/17/11/29/38b5b3f5c2e3f105cc9fa8668bfca434.jpg%21/fwfh/804x804/quality/90/unsharp/true/compress/true #https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
 # 菜单中的按钮
