@@ -5,7 +5,7 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: Lee`s Blog
 # 描述/签名
 description: 一个可以fork的博客
 
@@ -60,8 +60,8 @@ footer-text: Copyright (c) 2019 来自中世界
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
-# 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+# 输入Disqus loffer，即可删除评论区
+disqus: shortname #loffer
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
